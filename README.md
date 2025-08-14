@@ -43,4 +43,4 @@ npm run dev
 _Add dashboard screenshots here._
 
 ## 📄 License
-MIT
+[MIT](./LICENSE)

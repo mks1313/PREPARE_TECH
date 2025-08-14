@@ -40,7 +40,7 @@ npm run dev
 ```
 
 ## 📸 Screenshots
-_Add dashboard screenshots here._
+_Soon, at the end of the project:))._
 
 ## 📄 License
 [MIT](./LICENSE)

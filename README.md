@@ -1,4 +1,4 @@
-# SensingTex Dashboard (Demo)
+#  Dashboard (Demo)
 
 Frontend built with **React + TypeScript + Tailwind CSS**, backed by a **Flask** API.  
 Monitors textile IoT devices and their sensors, with real-time KPIs, device details, and sensor readings.

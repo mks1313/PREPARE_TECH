@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+@source "./index.html";
+@source "./src/**/*.{ts,tsx}";
+
+@layer base {
+  html, body, #root { height: 100%; }
+  body { /* blanco limpio por tu preferencia */
+    @apply bg-white text-slate-900;
+  }
+}
